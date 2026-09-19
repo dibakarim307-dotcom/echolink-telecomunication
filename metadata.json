@@ -1,0 +1,7 @@
+{
+  "name": "Echo Link",
+  "description": "Next-generation telecommunications and mobile money platform with Safaricom M-Pesa Daraja API integration for instant STK Push deposits, HD voice and video calling, zero-fee micro-transactions under 150 KSh, guaranteed 2% lower tariffs, and secure PIN authorization.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
